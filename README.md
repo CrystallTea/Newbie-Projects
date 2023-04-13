@@ -1,1 +1,1 @@
-The crummy script prints a random imaginary conversation.
+This crummy script prints a random imaginary conversation.
